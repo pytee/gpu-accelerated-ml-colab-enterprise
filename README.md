@@ -7,7 +7,7 @@ rewrite of the underlying code.
 
 ## Contents
 
-- 14 steps, ~2–3 hours, intermediate level
+- 15 steps, ~2–3 hours, intermediate level
 - Configuring a GPU-backed Colab Enterprise runtime template
 - Accelerating `pandas` with `cudf.pandas` and `scikit-learn` with `cuml.accel`
 - Cross-validated training, ensembling, and end-to-end pipeline evaluation
